@@ -2,5 +2,4 @@
 “This line is edited online.”
 This line for "git pull" practice.
 
-吾輩は犬である。
-名前はまだない。
+吾輩は犬であり、猿でもある。
